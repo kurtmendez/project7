@@ -1,1 +1,36 @@
+#main-headline {
+text-align: center;
+color: blue;
+}
 
+h2 {
+text-align: center;
+}
+
+.place-description {
+color: olive;
+font-family: Verdana;
+}
+
+.person-description {
+color: purple;
+}
+
+.top-favorite {
+font-style: italic;
+font-weight: bold;
+color: red;
+}
+
+
+.important-point {
+text-decoration: underline;
+<p><span class="text-decoration: underline;>he is one of the best nba players in history</span></p>
+}
+
+.emphasis {
+ font-style: italic;
+
+
+  
+ 
